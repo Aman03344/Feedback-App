@@ -1,0 +1,56 @@
+@media (max-width: 480px) {
+
+
+    *{
+        margin: 0%;
+        padding: 0%;
+        box-sizing: border-box;
+    }
+
+    .logo-section h1 {
+        font-size: 35px;
+        width: 100%;
+
+    }
+
+    .main-box{
+        flex-wrap: wrap;
+        
+    }
+
+    .img-box{
+        width: 100%;
+        height: auto;
+        margin: 0%;
+        align-items: center;
+        justify-content: center;
+        text-align: center;
+    }
+
+    .img-box h1{
+        width: 100%;
+        font-size: 35px;
+    }
+
+    .img-box P{
+        font-size: 27px;
+    }
+
+
+
+    .F-content{
+        width: 100%;
+        height: auto;
+        margin: 0%;
+    
+    }
+
+    /* form{
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+
+    }
+} */
